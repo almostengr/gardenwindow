@@ -1,6 +1,6 @@
-# garden Window
+# Garden Window
 
-Tracking plant progress of a garden window
+Tracking plant progress in a garden window
 
 | DATE PLANTED | PLANT  | MATURITY DAYS | MATURITY DATE | 
 |--------------|--------|---------------|---------------|
